@@ -1,0 +1,6 @@
+{
+  "origin": "Authored SVG composition with original Deck logos, outlined local Hanken Grotesk and the current image_gen card faces.",
+  "generator": "scripts/generate-social-image.py",
+  "cardArtwork": "Built-in image_gen; exact prompts in public/cards/provenance.json",
+  "renderedWith": "fontTools and ffmpeg/librsvg"
+}

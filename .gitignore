@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.impeccable/review/
+.impeccable/cache/
+.impeccable/*.log
+.DS_Store
+__pycache__/
+*.pyc
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
